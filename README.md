@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/github/license/textualdreadlia/belajar-strategyPattern?style=for-the-badge)
 
 Repositori ini berisi contoh implementasi berbagai design pattern dalam Java, khususnya **Strategy Pattern**, sebagai bahan pembelajaran untuk mata kuliah Design Pattern.
 
